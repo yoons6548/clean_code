@@ -66,6 +66,10 @@ https://docs.google.com/presentation/d/1X-jYNm4XPCgvTFXOtSPh4_tFptSRTOVRiQXIX9eG
 
 [3장_1_발표자료.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/01e65d52-9830-48f1-a46e-c4177e38f113/3%E1%84%8C%E1%85%A1%E1%86%BC_1_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
 
+라면님 발표자료
+
+[54p ~ 65p.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c166cce5-16bc-4b3c-8de5-84b5231a46c4/54p__65p.pdf)
+
 ### 4장 주석
 
 |  | 발표일 | 발표자 |
@@ -154,12 +158,24 @@ https://docs.google.com/presentation/d/1AQum17wGvUksmbLHBKBhpnU0r_gwA6fdmuEcndbf
 | 클래스 체계 ~ 클래스는 작아야 한다! | 2023-07-11 | 무니 → 밀크티 |
 | 변경하기 쉬운 클래스 ~ 참고 문헌 | 2023-07-11 | 라면 |
 
+밀크티님 발표자료
+
+[10강_클래스_밀크티.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a9b8c751-871b-45e6-a5f9-0655475f301e/10%E1%84%80%E1%85%A1%E1%86%BC_%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A2%E1%84%89%E1%85%B3_%E1%84%86%E1%85%B5%E1%86%AF%E1%84%8F%E1%85%B3%E1%84%90%E1%85%B5.pdf)
+
+라면님 발표자료
+
+[185p ~ 191p.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/744aa81a-dc34-4a55-8ff5-eceb259f970a/185p__191p.pdf)
+
 ### 11장 시스템
 
 |  | 발표일 | 발표자 |
 | --- | --- | --- |
 | 도시를 세운다면? ~ 자바 프록시 | 2023-07-11 | BruceHan |
 | 순수 자바 AOP 프레임워크 ~ 참고 문헌 | 2023-07-11 | 흙임자쿠키 |
+
+BruceHan님 발표자료
+
+[11장 시스템_BruceHan - 도시를 세운다면~자바 프록시.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/60e6e2ef-d93e-4dc3-85ed-0c51da5fbe8a/11%E1%84%8C%E1%85%A1%E1%86%BC_%E1%84%89%E1%85%B5%E1%84%89%E1%85%B3%E1%84%90%E1%85%A6%E1%86%B7_BruceHan_-_%E1%84%83%E1%85%A9%E1%84%89%E1%85%B5%E1%84%85%E1%85%B3%E1%86%AF_%E1%84%89%E1%85%A6%E1%84%8B%E1%85%AE%E1%86%AB%E1%84%83%E1%85%A1%E1%84%86%E1%85%A7%E1%86%AB%E1%84%8C%E1%85%A1%E1%84%87%E1%85%A1_%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%86%A8%E1%84%89%E1%85%B5.pdf)
 
 흙임자쿠키님 발표자료
 
@@ -170,7 +186,11 @@ https://docs.google.com/presentation/d/1AQum17wGvUksmbLHBKBhpnU0r_gwA6fdmuEcndbf
 |  | 발표일 | 발표자 |
 | --- | --- | --- |
 | 창발적 설계로 깔끔한 코드를 구현하자 ~ 중복을 없애라 | 2023-07-18 | 라이언 |
-| 표현하라 ~ 참고 문헌 | 2023-07-18 | 그루비 |
+| 표현하라 ~ 참고 문헌 | 2023-07-18 → 2023-07-25 | 그루비 |
+
+그루비님 발표자료
+
+[Clean_Code_CH.12_창발성_발표자료.pptx](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/83f13af8-8cb1-486e-bff8-a4838dd63d6a/Clean_Code_CH.12_%E1%84%8E%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%89%E1%85%A5%E1%86%BC_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pptx)
 
 ### 13장 동시성
 
@@ -181,25 +201,34 @@ https://docs.google.com/presentation/d/1AQum17wGvUksmbLHBKBhpnU0r_gwA6fdmuEcndbf
 
 ### 14장 점진적인 개선
 
+2023-07-25 12장 그루비님 먼저하고 시작!
+
 |  | 발표일 | 발표자 |
 | --- | --- | --- |
-| Args 구현 ~ Args: 1차 초안 | 2023-07-18 | 곰탱이 |
-| String 인수 ~ 결론 | 2023-07-18 | 프로도 |
+| Args 구현 ~ Args: 1차 초안 | 2023-07-25 | 곰탱이 |
+| String 인수 ~ 295p | 2023-07-25 | 프로도 |
+| 295p ~ 결론 | 2023-07-25 | 무니 |
+
+프로도님 발표자료
+
+[clean_code_ch14b.md](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b40e5370-8f01-414b-80ac-9396b23aee53/clean_code_ch14b.md)
+
+무니님 발표자료
+
+[14장_3_발표자료.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6e221797-7ead-40ef-8508-cb7602d7fadf/14%E1%84%8C%E1%85%A1%E1%86%BC_3_%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
 
 ### 15장 JUnit 들여다보기
 
 |  | 발표일 | 발표자 |
 | --- | --- | --- |
-| Junit 프레임워크 ~ 334p “멤버 변수 이름도 좀 더 정확하게 바꿨다.[N1] 결국 둘 다 색인 위치를 나타내기 때문이다. | 2023-07-25 | 구캉이, 종민 |
-| 334p “findCommonSuffix를 주의 깊게 살펴보면 숨겨진 시간적인 결합이 존재한다[G31] ~” ~ 결론 | 2023-07-25 | 종민 |
+| Junit 프레임워크 ~ 334p “멤버 변수 이름도 좀 더 정확하게 바꿨다.[N1] 결국 둘 다 색인 위치를 나타내기 때문이다. | 2023-08-01 | 구캉이 |
+| 334p “findCommonSuffix를 주의 깊게 살펴보면 숨겨진 시간적인 결합이 존재한다[G31] ~” ~ 결론 | 2023-08-01 | 종민 |
 
 ### 16장 SerialDate 리팩터링
 
 |  | 발표일 | 발표자 |
 | --- | --- | --- |
-| 첫째, 돌려보자 | 2023-07-25 | 정상수, 밀크티 |
-| 둘째, 고쳐보자 ~ 결론 | 2023-07-25 | 밀크티 (양이 좀 많은데 잘부탁드립니다 ㅜ) |
+| 첫째, 돌려보자 | 2023-08-01 | 정상수 |
+| 둘째, 고쳐보자 ~ 결론 | 2023-08-01 | 밀크티 (양이 좀 많은데 잘부탁드립니다 ㅜ) |
 
 17장 냄새와 휴리스틱은 언급될 때 함께 다루어요! 😀
-
----
