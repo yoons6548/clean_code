@@ -440,13 +440,13 @@ private boolean setArgument(char argChar) throws ArgsException {
 
 1. 참고 - Risc (ARM processor) 기준 register 구조.
 
-![image](https://github.com/yoons6548/self_study/assets/45020799/c9ed6b4d-4078-48c4-b82f-0c4fa61235b1)
+![image](https://github.com/yoons6548/clean_code/assets/45020799/2007499b-5d3f-46d6-b7a7-b10ebe5e0f1e)
 
 (출처 : https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/how-to-call-a-function-from-arm-assembler )
 
 2. Cisc (IA32 : Inter Architecture 32bit) 기준 register 구조.
 
-![image](https://github.com/yoons6548/self_study/assets/45020799/bebf90a7-e474-40fc-9f10-0fe1cbdb9a82)
+![image](https://github.com/yoons6548/clean_code/assets/45020799/a7f8709a-303d-4e5a-a967-47b86ee02fdc)
 
 (출처 : https://www.cs.cmu.edu/afs/cs/academic/class/15740-f18/www/lectures/02-isa.pdf )
 </details>
